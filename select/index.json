@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "メメント・モリ",
+  "base_artist": "大森元貴",
+  "createdAt": "2026-01-09T16:57:27.736097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メメント・モリ",
+      "artist": "Reona",
+      "has_synced": true,
+      "path": "select/01_メメント・モリ_Reona.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メメント・モリ",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/02_メメント・モリ_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メメント?モリ",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/03_メメント_モリ_Aqua_Timez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メメント・モリ",
+      "artist": "大森元貴",
+      "has_synced": false,
+      "path": "select/pl_01_メメント・モリ_大森元貴.txt"
+    }
+  ]
+}
